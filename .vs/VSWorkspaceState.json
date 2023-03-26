@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\public",
+    "\\client\\public\\js",
+    "\\client\\src",
+    "\\client\\src\\components",
+    "\\client\\src\\layouts",
+    "\\client\\src\\layouts\\dashboard",
+    "\\client\\src\\pages"
+  ],
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,64 @@
+.hide-pc {
+  display: none;
+}
+@media screen and (max-width: 990px) {
+  .header-bottom-area {
+    display: block !important;
+    width: 100%;
+    background: #fff;
+  }
+
+  .hide-pc {
+    display: flex;
+    font-size: 22px;
+    justify-content: center;
+  }
+  .nav-logo-wrapper {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  .ltn__main-menu {
+    height: 100vh;
+    position: fixed;
+    width: 100vw;
+    left: 0px;
+    background: rgba(0, 0, 0, 0.945);
+    top: 0;
+    padding-top: 40%;
+    transition: 0.5s all ease-in-out;
+    left: 100vw;
+  }
+  #scrollUp {
+    display: none !important;
+  }
+  .ltn__main-menu > ul > li > a {
+    color: #fff;
+  }
+  .mini-cart-icon-2 > a h6 {
+    color: #fff;
+  }
+  .mini-cart-icon-2 > a .mini-cart-icon i {
+    color: #fff;
+  }
+  .ltn__main-menu ul li {
+    display: block !important;
+  }
+
+  .open-side {
+    left: 0;
+  }
+  .close-menu {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 10;
+    padding: 10px;
+    color: #fff;
+    background: none;
+    font-size: 25px;
+  }
+}
+
+/* header-bottom-area ltn__border-top ltn__header-sticky ltn__sticky-bg-white ltn__primary-bg---- menu-color-white---- d-none d-lg-block */
+/* header-bottom-area ltn__border-top ltn__header-sticky ltn__sticky-bg-white ltn__primary-bg---- menu-color-white---- d-none d-lg-block sticky-active */

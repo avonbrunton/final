@@ -1,0 +1,27 @@
+api 
+- admin log
+- logout
+- add product -done
+- edit product
+- remove product
+- list user -done
+- list order 
+- forgot pass api
+
+
+frontend 
+- login 
+- register
+- cart
+- my order 
+- responsive
+- header for mob
+- linking all page
+- admin login
+- dashboard user
+- dashboard order
+- dashboard product
+
+
+auth
+- impelement auth
